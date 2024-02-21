@@ -2,8 +2,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**[Станьте моим спонсором и ваш логотип будет здесь и на prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**.
-
 ---
 
 [русская версия](https://github.com/smartmanru/awesome-chatgpt-prompts-ru/blob/main/README-ru.md)
